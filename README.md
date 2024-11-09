@@ -1,3 +1,17 @@
+CONTACT [TELEGRAM](t.me/CarParkingMultiTool)
+
+![PyPI - Version](https://img.shields.io/pypi/v/requests)
+
+___
+# DESCRIPTION
+**RU: Данный модуль подключаться к серверам Car Parking и с помощью этого их можно "взламывать"**
+
+
+**ENG: This module connects to Car Parking servers and can be used to "hack" them**
+
+
+___
+
 # **EXAMPLES**
 
 1№
@@ -35,6 +49,8 @@ Animation: no
 Flag: {}
 ```
 ___
+
+
 
 
 
