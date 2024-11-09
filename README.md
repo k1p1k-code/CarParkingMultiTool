@@ -1,5 +1,9 @@
-# **ПРИМЕРЫ**
-```
+# **EXAMPLES**
+
+1№
+
+*CODE*:
+```python
 from CarParkingMultiTool import LoginCarParking
 import config
 
@@ -20,6 +24,17 @@ print(f'Animation: {','.join(str(v) for v in client.data_account.animations) if 
 print(f'Flag: {(client.data_account.flags)}')
 
 ```
+RESULT
+```
+Name: Player#471
+ID: MC551684
+Friends: no
+Money: 68000
+Coin: 0
+Animation: no
+Flag: {}
+```
+___
 
 
 
