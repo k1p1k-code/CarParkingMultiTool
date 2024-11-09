@@ -7,3 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Python/Python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
