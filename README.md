@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="your-twitter-URL">
+  <a href="https://t.me/K1p1k">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
