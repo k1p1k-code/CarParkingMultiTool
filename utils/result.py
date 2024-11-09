@@ -1,6 +1,5 @@
 import json
 from aiogram import types
-types.Message.photo
 
 class account_data():
 
