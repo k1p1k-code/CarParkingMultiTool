@@ -1,9 +1,6 @@
 import json
-from aiogram import types
 
 class account_data():
-
-
     def __init__(self, data: dict):
         self.data=data
         data=(json.loads(data['result']))
